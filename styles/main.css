@@ -186,7 +186,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     padding-bottom: 5rem;
-    bottom: 0%;
+    bottom: -50%;
   }
 }
 
